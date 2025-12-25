@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+label, input, select, button {
+  display: block;
+  margin: 10px 0;
+}
+
+#mobOutput {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #000;
+}
